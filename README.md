@@ -21,3 +21,11 @@ Analyzing personal finances and spending using Power BI and Excel analysis techn
 ## Data Discovery
 -   BYOD (Bring your own data)
 -   Recorded my financial activity for each month in an excel sheet
+
+
+## Data Transformation
+-   Given data is not in flat format: unpivot data
+-   Rename attribute to Month
+-   Convert Value column to Fixed decimal type
+-   Convert Month column to type Date -> Extract year to new column
+-   Convert Year column to text (to use it as a category rather than number)
