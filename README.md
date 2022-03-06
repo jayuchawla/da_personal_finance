@@ -18,6 +18,6 @@ Analyzing personal finances and spending using Power BI and Excel analysis techn
 -   Judging my financially good/bad months.
 -   Analyzing my savings and spending.
 
-## Data
+## Data Discovery
 -   BYOD (Bring your own data)
 -   Recorded my financial activity for each month in an excel sheet
