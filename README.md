@@ -29,3 +29,11 @@ Analyzing personal finances and spending using Power BI and Excel analysis techn
 -   Convert Value column to Fixed decimal type
 -   Convert Month column to type Date -> Extract year to new column
 -   Convert Year column to text (to use it as a category rather than number)
+
+## Client Requirements
+-   Timeline selection (year, month)
+-   KPIs for income, networth, savings, spending (varies with timeline chosen)
+-   Static KPIs for overall income, networth, savings, spending (does not vary with chosen timeline)
+-   Expense and Savings breakdown (in %)
+-   Detailed statement (tabular)  
+-   Change in expense and saving % with change in income % (mom)
