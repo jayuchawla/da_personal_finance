@@ -37,3 +37,12 @@ Analyzing personal finances and spending using Power BI and Excel analysis techn
 -   Expense and Savings breakdown (in %)
 -   Detailed statement (tabular)  
 -   Change in expense and saving % with change in income % (mom)
+
+## Building Dashboard
+-   Creating KPI measures (Total Income, Total Savings, Total Expenses, Expense %, Savings %)
+-   Creating static KPI measures (all time)
+-   Creating slider (year and month)
+-   Creating clustered bar chart for Total Expenses (in %) by Component (House rent, emi, ..)
+-   Creating clustered bar chart for Total Savings (in %) by Component (Mf, fd, ..)
+-   Creating Expenses Trend (new page) over time (line chart) and attach as tooltip for above clustered bar chart.
+-   Creating Savings Trend (new page) over time (line chart) and attach as tooltip for above clustered bar chart.
