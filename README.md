@@ -47,3 +47,9 @@ Analyzing personal finances and spending using Power BI and Excel analysis techn
 -   Creating Expenses Trend (new page) over time (line chart) and attach as tooltip for above clustered bar chart.
 -   Creating Savings Trend (new page) over time (line chart) and attach as tooltip for above clustered bar chart.
 -   _Creating a multi line chart which helps visualizing Savings Change MoM %, Expenses Change MoM % against Income Change MoM %._
+-   Table for aggregate values wrt types & components.
+-   Target savings % marker line on trend. 
+
+## Inferences
+-   
+## Feedback
